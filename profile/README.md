@@ -15,8 +15,7 @@ Check it out on [CoreGames.com](https://www.coregames.com/games/661fcd/armored-f
 
 #### Strike Team
 
-![image](https://user-images.githubusercontent.com/58569561/133335696-6d93e414-2d96-4262-99d9-b812d3783e5c.png)
-
+[![StrikeTeam](https://user-images.githubusercontent.com/58569561/133335696-6d93e414-2d96-4262-99d9-b812d3783e5c.png)](https://github.com/Core-Team-META/Strike-Team)
 
 In this fast-paced FPS, two teams compete for control of Strike Points on a fiercely contested urban battlefield. Storm the rooftops, take down snipers, and fight your way through hails of gunfire and grenades. Earn experience and level up to unlock passive abilities. Use in-game cash rewards to unlock weapon choices. More maps, modes and mayhem coming soon!
 
@@ -24,8 +23,7 @@ Check it out on [CoreGames.com](https://www.coregames.com/games/9442a4/strike-te
 
 #### Spellshock 2
 
-![image](https://user-images.githubusercontent.com/58569561/133335712-e021bd27-a3b9-464f-84ff-de74e0a2b03c.png)
-
+[![Spellshock2](https://user-images.githubusercontent.com/58569561/133335712-e021bd27-a3b9-464f-84ff-de74e0a2b03c.png)](https://github.com/Core-Team-META/Strike-Team)
 
 In this fantasy PVP battleground, the warring Legion of Light and Dark Devout clash to gain dominion over the war-torn land. Strategize with your teammates to capture and control power crystals on this classic battlefield. Choose from any of five unique MOBA inspired classes, each outfitted with specialized powers, appearances, and playstyles. Level up your skills, collect treasure after each round, and master your favorite class!
 
